@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Visual studio
+x64/
+Debug/
+Release/
+vsproject/.vs
+*.user
+vsproject/_build_
+vsproject/_temp_
+app/.vs
