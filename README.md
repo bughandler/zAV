@@ -5,7 +5,7 @@ The most straightforward  way to shut down **Windows Defender** legally.
 
 ### Ⅰ. How it works.
 
-By leveraging some components of [Hurong Security (huorong.cn)](https://www.huorong.cn/) antivirus, which allows us to register it as a legal and valid antivirus software to the **Windows security center** without needing to install the **Hurong Security Suite** at all, and then Windows Defender will shutdown itself automatically.
+By leveraging some components of [Hurong Security (huorong.cn)](https://www.huorong.cn/) antivirus, which allows us to register it as a legal and valid antivirus software to the **Windows security center** without needing to install the **Hurong Security Suite** at all, and then Windows Defender will shut down itself automatically.
 
 
 
@@ -34,9 +34,5 @@ By leveraging some components of [Hurong Security (huorong.cn)](https://www.huor
 
   > I highly recommend you to install a serious antivirus product such as Hurong, ESET, and so on.
 
-+ All files in the release package except `zAV.exe` totally belong to Hurong Security.
-
-+ **To Hurong Security**:
-
-  > If you think including part of components of your product in the release package is unacceptable, please contact me with an issue, I'll remove them ASAP.
++ For legal reasons, I'll not publish any package containing third-party components.
 
